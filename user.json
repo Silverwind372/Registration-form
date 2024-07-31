@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "Troy",
+    "lastName": "Rosales",
+    "birthday": "2024-07-29",
+    "phone": "09391575518",
+    "email": "troyadelrosales@gmail.com",
+    "password": "$2a$10$gq65hhv0pJoTqMUzBYlg6ehWCw1pEEAFty/MVr1wo2qH7wrMQuaeK"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Doe",
+    "birthday": "2024-07-05",
+    "phone": "09195213251",
+    "email": "Try@gmail.com",
+    "password": "$2a$10$2.cEwbLc8cybrV5D/32rCOQj46buJb3WiD3fCF2ldxkuFTdD0LKma"
+  }
+]
